@@ -1,0 +1,58 @@
+baseURL: https://navada-hugo.netlify.app/
+languageCode: en-us
+title: Ever Sew Slowly
+theme: navada
+paginate: 6
+googleAnalytics: ''
+pygmentsstyle: Abyss
+pygmentscodefences: yes
+pygmentscodefencesguesssyntax: yes
+params:
+  author: Rose Martinez
+  authorImage: /images/eversewslowly_logo.jpg
+  description: Navada is a color UI theme for blogs
+markup:
+  goldmark:
+    renderer:
+      unsafe: yes
+menu:
+  footer:
+    - name: About
+      url: /about
+    - name: Privacy Policy
+      url: /privacy
+  main:
+    - name: About
+      url: /about
+    - name: Blog
+      url: /blog
+    - name: Categories
+      url: /categories
+    - name: Tags
+      url: /tags
+    - name: Subscribe
+      url: /subscribe
+  social:
+    - name: Instagram
+      pre: <i class="fab fa-instagram fa-2x"></i>
+      url: https://instagram.com/eversewslowly/
+    - name: Pinterst
+      pre: <i class='fab fa-pinterest-p fa-2x'></i>
+      url: https://pinterest.com/EverSewSlowly/
+    - name: Youtube
+      pre: <i class='fab fa-youtube fa-2x'></i>
+      url: https://youtube.com/@eversewslowly/
+related:
+  includeNewer: yes
+  indices:
+    - name: categories
+      weight: 100
+    - name: date
+      weight: 10
+  threshold: 0
+  toLower: no
+module:
+  hugoVersion:
+    extended: yes
+    max: 0.110.0
+    min: 0.55.0
