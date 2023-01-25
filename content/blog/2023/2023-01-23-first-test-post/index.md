@@ -8,7 +8,7 @@ categories:
 tags:
   - moulage
 description: ''
-draft: yes
+draft: no
 images:
   - /images/2023/refashion_mens_shirt.png
 featured: true
