@@ -1,4 +1,5 @@
 baseURL: https://eversewslowly.com/
+rssLimit: 15
 languageCode: en-us
 title: Ever Sew Slowly
 theme: navada
@@ -7,10 +8,17 @@ googleAnalytics: ''
 pygmentsstyle: Abyss
 pygmentscodefences: yes
 pygmentscodefencesguesssyntax: yes
+enableEmoji: true
 params:
+  title: Ever Sew Slowly
+  tagline: Ever Sew Slowly mission
   author: Rose Martinez
   authorImage: /images/eversewslowly_logo.jpg
-  description: Navada is a color UI theme for blogs
+  description: Website to organize all of my sewing thoughts
+  NewsletterSignup: https://tinyletter.com/eversewslowly
+  favicon:
+  logo: 
+  rss: true
 markup:
   goldmark:
     renderer:

@@ -6,9 +6,13 @@
     <div class="container max-800px">
         <div class="content">
             <h1>{{ .Title }}</h1>
-          <p>Thank you for reading my blog!</p>
+          <p>Don't want to miss a new post?</p>
 
-  <p>Sign up for my <a href="{{ .Site.Params.NewsletterSignup }}">email newsletter</a> or use this <a href="/feed.xml">RSS feed</a> to get notified of new blog posts.</p>   
+  <p>Sign up for my <a href="{{ .Site.Params.NewsletterSignup }}">email newsletter</a> or use this <a href="/feed.xml">RSS feed</a> to get notified of new blog posts.</p>  
+  
+  <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/eversewslowly" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/eversewslowly', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address:</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
+        
+  
         </div>
 
 
