@@ -22,6 +22,7 @@ body {
      font-family: 'Anton';
      letter-spacing: 0.2em;
      text-align: center;
+     width: auto;
 }
  .nav-buttons h1 {
      font-family: 'Bebas Neue';
@@ -30,12 +31,14 @@ body {
      color: #000000;
      padding: 2.5px 15px;
      border-radius: 15px;
+     width: auto;
 }
  .nav-buttons h1:hover {
      background-color: #4a4a4a ;
      color: floralwhite;
      padding: 0px 20px;
      border-radius: 10px;
+     width: auto;
 }
  .index-header {
      text-align:center;
