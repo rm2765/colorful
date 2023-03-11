@@ -6,6 +6,7 @@ images:
 - /images/Group-Working.jpg
 tags:
 title: Creating a New Theme
+draft: yes
 ---
 
 ## Introduction
