@@ -1,57 +1,18 @@
 ---
 date: "2019-04-26T20:18:54+03:00"
-heroimage: /images/mountain.jpg
-herotext: Helping you succeed in life
+heroimage: /images/upcycle-clothing-inspiration-sewing.jpg
+herotext: Sharing my pin pricks in the hopes you may be spared #beginnersewing #slowfashion #selfexpression #thriftfinds
+
 layout: about
-title: About Me
+title: ☺️🧵🪡♥️
 ---
 
-# Et ora stamen Phlegon signum te utraque
+# About Me
 
-## Lege est
+I code in R to make sense of data by day and have fun transforming & upcycling clothes by night.
 
-Lorem markdownum malum Cupido [cupit obruta](http://www.rapto.com/loqui)
-delectat dictis, prodit, decidit Achilli simul ad tantaque adieci Quae. Tulit
-plura audito, superabat atria hausit ut quibus illi auditur.
+I had never really been interested in fashion. I hated shopping for new clothes. Trying on dresses for birthday parties, graduations and other events only led to frustration as I never liked how I looked or felt. If I found something I **liked**, the article of clothing most of the time didn’t have a good fit; maybe the sleeves were too long, shoulders too wide or bust was too tight or loose. And when I found something that **fit**, the item was usually “in” or “trendy”. Pride in my uniqueness, individuality and self expression took a toll.  
 
-## Animal nescius
+Altering and creating my own clothes was never something I thought I would have the ability and time to do, but made a lot of sense for it to become an outlet for me during Covid. I thought "why don’t I learn to sew and make a dress from scratch"?
 
-Coegi *ubi onus securim*, gemitus **artificem adporrectumque inmenso** meta
-medias, nato mare. Minaxque qualis. Redemit capillos aliquem: frustra spumisque
-gratus **abstemius** quodque ictus aram tellure terra! Infans suum alter
-commentaque omnibus?
-
-1. Per et digitis
-2. Cohaesit seducunt fratribus thalamos carinae
-3. Melior illa tamen poenamque stupuit ponat formaene
-4. Ludit requirit
-5. Tritona spatium sunt
-6. Ceperat Edonidas gratos tota Gargaphie in Hecate
-
-## Quidem adspeximus Naides trabe suoque pulsat fortia
-
-Retia laude [dederat placidi](http://pro.io/), excipit at negat erat, nec
-aequorei, invocat. Qua manet removere aspiciunt tunc dumque rigidum; quos cogor
-ire summam fiducia ripas ambiguum. Relicta est solitis, quibus: **et se** vidit.
-
-## Solebat generi incursu esse Cyanen et capillo
-
-Tophis oravit. Et necem de fertur amoris! Et agnovere torta, an praeceps loqui
-oculosque auxiliaria aliamve saecula.
-
-- Dare nam silvas non amnis est nescio
-- Consulit medio
-- Tua contemptor modo illae inposuit vita Athenas
-- De mens non velut sola Mavortia
-
-## Feroci nuper eripere ut mollia hominumque timeo
-
-Equi *templa caret dea* materiem vicem. Utere tela Minos totidem siquis
-spernitque Augustis erat stratis. Caelo sinu pharetras longius. Metuens saepe;
-et laudat perque tu duo luctatur [tabellae](http://suspicor.org/in-dimovit)
-perfunditur haec crematisregia tamen animas! Ratione somni est par tua lupi ira
-periura, gelidumque acumine pascere morte hoc!
-
-**Urbis neve** nunc, tactusque corpore inque, nec hortatus tres amarunt rexit
-iterum dedere est. Turba Redditus Cerealis adsimulavit latices Ianthe adspicias
-in caelum umero. Duo neque.
+And the rest is history.
