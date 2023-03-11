@@ -42,13 +42,13 @@ menu:
       url: /subscribe
   social:
     - name: Instagram
-      pre: <i class="fab fa-instagram fa-2x"></i>
+      pre: <i class="fab fa-instagram fa-1x"></i>
       url: https://instagram.com/eversewslowly/
     - name: Pinterst
-      pre: <i class='fab fa-pinterest-p fa-2x'></i>
+      pre: <i class='fab fa-pinterest-p fa-1x'></i>
       url: https://pinterest.com/EverSewSlowly/
     - name: Youtube
-      pre: <i class='fab fa-youtube fa-2x'></i>
+      pre: <i class='fab fa-youtube fa-1x'></i>
       url: https://youtube.com/@eversewslowly/
 related:
   includeNewer: yes
