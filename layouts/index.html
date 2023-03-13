@@ -1,18 +1,12 @@
 {{ define "main" }}
-     <!-- <div class="container max-800px">
-      <h1 class="title is-1 index-header narrow-background">
-            {{ .Title }}
-        </h1> 
-        {{ with .Params.herotext }}
-        <h2 class="title subtitle is-4 has-background-primary narrow-background">
-            {{ . }}
-        </h2>
-        {{ end }}
-    </div> -->
+      <div class="container max-800px">
+    </div> 
 <!-- background landing image -->    
-    <div class="hero is-dark is-fullheight-with-navbar" {{ with .Params.heroimage }}
-    style="background: url({{ . }}) center top; background-size:cover;" {{ end }}>
-    </div>
+ <!--   <div class="container max-800px"> {{ with .Params.heroimage }}
+
+{{ end }}>
+    </div> -->
+    
     
 <div class="index-section">
     <div class="container max-800px">
@@ -21,10 +15,13 @@
     <img src="{{ index . 0 }}" alt="">
   </figure>
 {{ end }}
+
+<!-- ^ canva image--> 
+
         <div class="content">
             {{ .Content }}
  <!-- featured content -->           
-            <h2>Featured Posts</h2>
+            <h3>Featured Posts</h3>
 	<ul>
 		{{ range first 3 (where (where .Site.RegularPages "Type" "in" site.Params.mainSections) ".Params.featured" "=" true) }}`
 		  <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
@@ -36,7 +33,7 @@
       <!-- latest content --> 
      
        <div class="widget mb-5">
-	        <h2 class="mb-4 widget-title">Latest Posts</h2>
+	        <h3 class="mb-4 widget-title">Latest Posts</h3>
 	        <ul class="list-unstyled">
 	          <li class="d-flex mb-4">
 	        <a href="{{ .Permalink }}" class="mr-3">

@@ -1,9 +1,23 @@
 ---
 author: Ever Sew Slowly
-heroimage: images/index-bg-1.jpg
+title:
+images:
+  - /images/index-bg.png
 ---
 
-<!--# Ever sew Slowly's mission description goes here-->
+# Check out Ever Sew Slowly's :
+
+<!--heroimage: images/index-bg-1.jpg-->
 
  
+
+
+|Latest Thrift Finds | Sewing Resources|
+|  :----:  |  :----:  | 
+
+
+|Refashion Inspiration | Collective Musings|
+|  :----:  |  :----:  | 
+
+
 
