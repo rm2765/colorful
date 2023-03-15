@@ -7,6 +7,13 @@ layout: about
 title: ☺️🧵🪡♥️
 ---
 
+# Mission
+The name 'eversewslowly' adequately describes my relationship with, struggles and journey in learning to sew and re-imagining & transforming clothes.
+
+It is a slow process in two regards. The first, sewing & refashioning is a side hobby, not a full-time gig. There are times when I don't have the hours or energy left for sewing. Second, refashioning, thrifting, memade, extending the life of clothing all are a stand against fast fashion industry and its social & environmental implications.  
+
+A lofty dream of mine is to make refashioning easier and accessible to all.
+
 # About Me
 
 I code in R to make sense of data by day and have fun transforming & upcycling clothes by night.
@@ -16,3 +23,6 @@ I had never really been interested in fashion. I hated shopping for new clothes.
 Altering and creating my own clothes was never something I thought I would have the ability and time to do, but made a lot of sense for it to become an outlet for me during Covid. I thought "why don’t I learn to sew and make a dress from scratch"?
 
 And the rest is history.
+
+# Contact Info
+contact@eversewslowly.com

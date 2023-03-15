@@ -11,12 +11,12 @@ pygmentscodefencesguesssyntax: yes
 enableEmoji: true
 params:
   title: Ever Sew Slowly
-  tagline: Ever Sew Slowly mission
-  author: Ever Sew Slowly
+  tagline: Sharing my pin pricks in the hopes you may be spared
+  author: Ever Sew Slowly (Rose)
   authorImage: /images/eversewslowly_logo.jpg
-  description: Website to organize all of my sewing thoughts
+  description: Website to organize all of my sewing refashioning endeavours
   NewsletterSignup: https://tinyletter.com/eversewslowly
-  favicon:
+  favicon: /images/2023/refashion_mens_shirt.png
   logo: 
   rss: true
 markup:
@@ -27,8 +27,8 @@ menu:
   footer:
     - name: About
       url: /about
-    - name: Privacy Policy
-      url: /privacy
+    - name: Home
+      url: /
   main:
     - name: About
       url: /about
