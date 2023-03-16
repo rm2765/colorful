@@ -2,12 +2,14 @@
 title: A Journey Begins ... Learning to Sew
 author: Ever Sew Slowly
 date: '2023-02-01'
-slug: []
 categories:
-  - Thrift Finds
+  - Collective Musings
+  - Refashion Inspiration
+  - Sewing Resources
+  - Latest Thrift Finds
 tags:
   - beginner
-description: 'Discovering New Interests After Covid'
+description: Discovering New Interests After Covid
 draft: no
 images:
   - /images/sewing_hobby_birds.jpg
