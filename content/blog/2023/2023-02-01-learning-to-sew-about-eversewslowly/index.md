@@ -5,9 +5,6 @@ date: '2023-02-01'
 slug: []
 categories:
   - Thrift Finds
-  - Sewing Resources
-  - Refashion Inspiration
-  - Collective Musings
 tags:
   - beginner
 description: 'Discovering New Interests After Covid'
