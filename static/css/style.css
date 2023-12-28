@@ -1,6 +1,6 @@
 body {
      display: flex;
-     flex-direction: column;
+     flex-direction:column;
      min-height: 100vh;
 }
  main {
@@ -150,6 +150,16 @@ body {
      margin-bottom: 1em;
 }
 
+.content1 {
+     background-color: WhiteSmoke;
+     padding: 25px 25px;
+     border-bottom-right-radius: 10px;
+     border-bottom-left-radius: 10px;
+     font-family: "JetBrains Mono";
+     font-size: 1em;
+     margin-bottom: 1em;
+}
+
  .list-content {
      background-color: transparent;
      color: #4a4a4a;
@@ -165,6 +175,13 @@ body {
      font-family: "Anton";
      color: #4a4a4a;
      font-size: 3em;
+}
+
+.list-content1 h1 {
+     font-family: "Anton";
+     color: #4a4a4a;
+     font-size: 3em;
+     text-align: center;
 }
  .categories-content h1 {
      font-family: "Anton";
@@ -251,6 +268,42 @@ body {
   position: absolute;
   bottom: 8px;
   left: 16px;
+}
+
+.two-column-table {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+
+.og-title h4 {
+  margin-bottom: 0.0em;
+}
+
+.column-1,
+.column-2 {
+  display: table-cell;
+  border: 1px solid #ddd;
+  padding: 20px;
+}
+
+.column-1 {
+  width: 33.33%; /* One-third width for the first column */
+  background-color: #f0f0f0; /* Optional background color */
+}
+
+.column-2 {
+  width: 66.67%; /* Two-thirds width for the second column */
+  background-color: #e0e0e0; /* Optional background color */
+}
+
+/* Optional: Add styling for content within columns */
+.column-1 p,
+.column-2 p {
+  margin: 0;
 }
 
 

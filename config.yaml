@@ -22,7 +22,7 @@ params:
 markup:
   goldmark:
     renderer:
-      unsafe: yes
+      unsafe: true
 menu:
   footer:
     - name: About
