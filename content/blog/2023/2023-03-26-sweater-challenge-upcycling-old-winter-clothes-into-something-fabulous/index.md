@@ -56,7 +56,7 @@ There are many ways to upcycle old sweaters, so choose a project that speaks to 
   - Here is the pattern I drafted 
 - Scarves or cowls: Cut the sweater into long strips, making sure to use the part with the most interesting texture or design. Sew the ends together to create a loop, and you have a warm and unique scarf to wear.
   - I followed this video Hooded Jumper/Scarf - 30 Second Tutorial #ReuseMonth
-  - <iframe width="560" height="315" src="https://www.youtube.com/embed/qHwBzFtO9F8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  - {{< youtube qHwBzFtO9F8 >}}
 - Leg warmers: Cut the sleeves off the sweater and use them as leg warmers. You can add elastic at the top to keep them in place.
 - Headbands/Ear Warmers: Cut a strip from the sweater, about two inches wide. Sew the ends together to create a loop. You can also add a strip of elastic on the inside of the headband to help it stay in place.
   - Watch X - pulled the pattern of an ear warmer I already had, and followed AlejandraMezaDIY to make a twisted headband on Instagram 
@@ -64,8 +64,8 @@ There are many ways to upcycle old sweaters, so choose a project that speaks to 
 
 - Sweater blanket: Combine a bunch of old sweaters to make a cozy blanket. Cut the sweaters into squares or rectangles, making sure they are all roughly the same size. Think about the pattern and repetition when sewing the pieces together. Leave a little extra fabric on each edge for a finished look. 
 - Tote bags: Old sweaters/jackets can also be transformed into handy tote bags. Cut the sweater to the desired size and shape, and sew the sides and bottom together. Add handles made from fabric or rope, and you have a stylish and eco-friendly tote bag.
-  - Watch x Making my DREAM Pinterest wardrobe! | DIY Puffer Hobo Bag thrift flip
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nCgCBXgGBzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  - Watch x Making my DREAM Pinterest wardrobe! | DIY Puffer Hobo Bag thrift flip  {{< youtube nCgCBXgGBzw >}}
+
 
 # Step 3: Get creative
 
