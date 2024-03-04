@@ -16,150 +16,22 @@
   </figure>
 {{ end }}
 
-<!-- ^ canva image--> 
+<!-- ^ canva image -->
 <div class="index-section">
-    <div class="container max-800px">
-     <div class="blog-title">
-            {{ .Content }}
-   </div>
-   </div>
-   </div>
-   
-   <div class="section">
-   <div class="columns is-mobile is-multiline">
-    
-    <div class="column is-half-mobile is-one-third-tablet is-one-quarter-desktop is-one-fifth-widescreen">
-        <div class="card">
-            <div class="card-image">
-                <a href="https://eversewslowly.com/categories/collective-musings/">
-                    <figure class="image is-3by2">
-                        
-                        
-                        <img src="/images/collective-musings.jpg" alt="">
-                        
-                    </figure>
-                </a>
-            </div>
-            <div class="card-content has-text-centered">
-                <div>
-                    <a class="title is-5 is-size-6-mobile" href="https://eversewslowly.com/categories/collective-musings/">Collective Musings</a>
-                    
-                    <p>1 post </p>
-                </div>
-            </div>
-        </div>
-    </div>
-    
-    <div class="column is-half-mobile is-one-third-tablet is-one-quarter-desktop is-one-fifth-widescreen">
-        <div class="card">
-            <div class="card-image">
-                <a href="https://eversewslowly.com/categories/refashion-inspiration/">
-                    <figure class="image is-3by2">
-                        
-                        
-                        <img src="/images/2023/refashion_mens_shirt.png" alt="">
-                        
-                    </figure>
-                </a>
-            </div>
-            <div class="card-content has-text-centered">
-                <div>
-                    <a class="title is-5 is-size-6-mobile" href="https://eversewslowly.com/categories/refashion-inspiration/">Refashion Inspiration</a>
-                    
-                    <p>1 post </p>
-                </div>
-            </div>
-        </div>
-    </div>
-    
-    <div class="column is-half-mobile is-one-third-tablet is-one-quarter-desktop is-one-fifth-widescreen">
-        <div class="card">
-            <div class="card-image">
-                <a href="https://eversewslowly.com/categories/sewing-resources/">
-                    <figure class="image is-3by2">
-                        
-                        
-                        <img src="/images/sewing-resources.jpg" alt="">
-                        
-                    </figure>
-                </a>
-            </div>
-            <div class="card-content has-text-centered">
-                <div>
-                    <a class="title is-5 is-size-6-mobile" href="https://eversewslowly.com/categories/sewing-resources/">Sewing Resources</a>
-                    
-                    <p>1 post </p>
-                </div>
-            </div>
-        </div>
-    </div>
-    
-    <div class="column is-half-mobile is-one-third-tablet is-one-quarter-desktop is-one-fifth-widescreen">
-        <div class="card">
-            <div class="card-image">
-                <a href="https://eversewslowly.com/categories/thrift-finds/">
-                    <figure class="image is-3by2">
-                        
-                        
-                        <img src="/images/thrift_finds.jpg" alt="">
-                        
-                    </figure>
-                </a>
-            </div>
-            <div class="card-content has-text-centered">
-                <div>
-                    <a class="title is-5 is-size-6-mobile" href="https://eversewslowly.com/categories/thrift-finds/">Latest Thrift Finds</a>
-                    
-                    <p>1 post </p>
-                </div>
-            </div>
-        </div>
-    </div>
-    
+  <div class="container max-800px">
+  <div class="blog-title">
+  {{ .Content }}
+ 
+  
 </div>
+  </div>
+  </div>
 
- </div>
- <!-- featured content           
-            <h3>Featured Posts</h3>
-	<ul>
-		{{ range first 3 (where (where .Site.RegularPages "Type" "in" site.Params.mainSections) ".Params.featured" "=" true) }}`
-		  <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
-		  </li>
-	  {{ end }}
-	</ul>
-     featured content end -->   
-     
-      <!-- latest content  
-     
-       <div class="widget mb-5">
-	        <h3 class="mb-4 widget-title">Latest Posts</h3>
-	        <ul class="list-unstyled">
-	          <li class="d-flex mb-4">
-	        <a href="{{ .Permalink }}" class="mr-3">
-	     {{ with .Params.image }}<img src=""....>{{ end }}
-	            </a>
-	            
-	            <div class="post-body">
-	              
-	              <span class="text-capitalize">- {{ dateFormat "Monday, Jan 2, 2006" .Date }}</span>
-	              <a href="{{ .Permalink }}">
-	                {{ with .Site.Taxonomies.tags.Latest }}
-    {{ range first 3 . }}
-        ...
-    
-	                <h3>{{ .Title }} </h3>
-	              </a>
-	           {{ end }}
-	            </div>
-	            
-	          </li>
-	          
-    {{ end }}
-	        </ul>
-		  </div>
-     
-	 <!-- latest content end --> 
+  <div class="section">
+  <div class="columns is-mobile is-multiline">
+
+ {{ partial "widgets/featured-card.html" . }}
+  
       
-   </div>     
     </div>
 {{ end }}

@@ -11,7 +11,7 @@ description: ''
 draft: no
 images:
   - /images/2023/cr3.jpeg
-featured: yes
+featured: true
 ---
 
 {{< creative_reuse_corner >}}
